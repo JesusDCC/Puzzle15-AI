@@ -1,0 +1,6 @@
+
+1) Para compilar o programa, correr javac puzzle.java
+2) Para executar, correr java puzzle
+3) Introduzir a configuração inicial e final esperada
+4) Escolher o algortimo desejado para resolver o problema
+
